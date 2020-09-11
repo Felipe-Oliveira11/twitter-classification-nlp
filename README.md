@@ -1,1 +1,2 @@
-# twitter-classification-nlp
+### text-classification-lstm
+Twitter sentiments classification 
