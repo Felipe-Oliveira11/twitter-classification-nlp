@@ -1,2 +1,2 @@
-### text-classification-lstm
-Twitter sentiments classification 
+### Twitter sentiments classification 
+
